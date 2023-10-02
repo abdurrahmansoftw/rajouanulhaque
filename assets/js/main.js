@@ -1,7 +1,7 @@
 /* ===================================================================
     
     Author          : Valid Theme
-    Template Name   : Ventix - Personal Portfolio Template
+    Template Name   : AbdurRahman - Personal Portfolio Template
     Version         : 1.0
     
 * ================================================================= */
@@ -269,11 +269,11 @@
      ===============================================*/
 	 function loader() {
 		$(window).on('load', function() {
-			$('#ventix-preloader').addClass('loaded');
+			$('#AbdurRahman-preloader').addClass('loaded');
 			$("#loading").fadeOut(500);
 			// Una vez haya terminado el preloader aparezca el scroll
 
-			if ($('#ventix-preloader').hasClass('loaded')) {
+			if ($('#AbdurRahman-preloader').hasClass('loaded')) {
 				// Es para que una vez que se haya ido el preloader se elimine toda la seccion preloader
 				$('#preloader').delay(900).queue(function() {
 					$(this).remove();
