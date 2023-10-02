@@ -1,10 +1,11 @@
-#$ ventix
+# ventix
 
 Ventix is a Responsive quick and easy customizable Modern Personal Portfolio Template it’s suitable for Designer, Developer, Programmer, Freelancer, Artist, Photographer & Can be use for Personal Portfolio. or your just a Blog This is highly customizable – looks awesome on tablets and mobile devices. Well commented code, well-documented file structure and 24/7 professional and ultra-fast Support.
 
 live demo: https://abdurrahman-ventix.netlify.app/
 
 #### Ventix – Core Features
+
 All required pages
 Built With Bootstrap 5x
 Fully Responsive
@@ -33,11 +34,12 @@ And much more…
 
 
 #### Credits and Sources
+
 We used Twitter Bootstrap 5x as CSS framework for this template.
 
 #### Fonts:
-http://www.google.com/fonts/ – Google WebFonts
-http://fontawesome.io/ – Font Awesome Pro
+http://www.google.com/fonts/ – Google WebFonts </br>
+http://fontawesome.io/ – Font Awesome Pro </br>
 
 
 #### Template Scripts
@@ -52,7 +54,7 @@ jquery.appear.js is used to determine whether the HTML element is inside the bro
 
 
 #### Images
-unsplash.com
-magdeleine.co
-picjumbo.com
-picography.co
+unsplash.com </br>
+magdeleine.co </br>
+picjumbo.com </br>
+picography.co </br>
