@@ -1,10 +1,10 @@
-# AbdurRahman
+# Rajouanul Haque
 
-AbdurRahman is a Responsive quick and easy customizable Modern Personal Portfolio Template it’s suitable for Designer, Developer, Programmer, Freelancer, Artist, Photographer & Can be use for Personal Portfolio. or your just a Blog This is highly customizable – looks awesome on tablets and mobile devices. Well commented code, well-documented file structure and 24/7 professional and ultra-fast Support.
+Rajouanul Haque is a Responsive quick and easy customizable Modern Personal Portfolio Template it’s suitable for Designer, Developer, Programmer, Freelancer, Artist, Photographer & Can be use for Personal Portfolio. or your just a Blog This is highly customizable – looks awesome on tablets and mobile devices. Well commented code, well-documented file structure and 24/7 professional and ultra-fast Support.
 
-live demo: https://abdurrahman-AbdurRahman.netlify.app/
+live demo: https://Rajouanul Haque-Rajouanul Haque.netlify.app/
 
-#### AbdurRahman – Core Features
+#### Rajouanul Haque – Core Features
 
 All required pages
 Built With Bootstrap 5x
@@ -32,17 +32,17 @@ Includes Sofol Font Awesome Library
 Excellent Customer Support – We care about your site as much as you do and will help in any way we can!
 And much more…
 
-
 #### Credits and Sources
 
 We used Twitter Bootstrap 5x as CSS framework for this template.
 
 #### Fonts:
+
 http://www.google.com/fonts/ – Google WebFonts </br>
 http://fontawesome.io/ – Font Awesome Pro </br>
 
-
 #### Template Scripts
+
 modernizr-2.8.3.min.js detecting browser’s features.
 jquery.min.js is a popular JavaScript library.
 bootstrap.min.js is a stantard Twitter Bootstrap library.
@@ -52,8 +52,8 @@ jquery.easing.1.3.js is a jQuery plugin for different types of animation
 swiperjs is a jQuery carousel plugin for “partners” section
 jquery.appear.js is used to determine whether the HTML element is inside the browser’s viewport
 
-
 #### Images
+
 unsplash.com </br>
 magdeleine.co </br>
 picjumbo.com </br>
